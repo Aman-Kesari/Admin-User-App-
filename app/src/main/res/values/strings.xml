@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CollegeApp</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="video_lectures">Video Lectures</string>
+    <string name="ebook">Ebook</string>
+    <string name="themes">Themes</string>
+    <string name="website">Website</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate us</string>
+    <string name="developer">Developer</string>
+    <string name="star">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college">National Institute of Technology Patna, formerly Bihar School of Engineering and Bihar College of Engineering, is a public engineering institution located in n Patna in the Indian state of Bihar. It was renamed as NIT Patna, by the Government of India on 28 Jann Patna in the Indian state of Bihar. It was renamed as NIT Patna, by the Government of India on 28 Jann Patna in the Indian state of Bihar. It was renamed as NIT Patna, by the Government of India on 28 Jann Patna in the Indian state of Bihar. It was renamed as NIT Patna, by the Government of India on 28 JanPatna in the Indian state of Bihar. It was renamed as NIT Patna, by the Government of India on 28 January 2004</string>
+    <string name="j">https://www.shutterstock.com/image-photo/prem-mandir-means-temple-love-mathura-2179518681</string>
+    <string name="about_c">Patna, formerly Bihar School of Engineering and Bihar College of Engineering, is a public engineering institution located in n Patna in the Indian state of Bihar. It was ren</string>
+</resources>
